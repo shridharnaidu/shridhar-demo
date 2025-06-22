@@ -1,4 +1,4 @@
 # shridhar-demo
 This is my first Git Repository
 <br>
-Auther - Shridhar Naidu
+Auther - Shridhar Naidu (my self )
